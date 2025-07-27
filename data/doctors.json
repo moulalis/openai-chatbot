@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Smith",
+    "specialty": "Cardiologist"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Patel",
+    "specialty": "Dermatologist"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Khan",
+    "specialty": "Neurologist"
+  }
+]

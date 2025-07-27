@@ -1,0 +1,35 @@
+[
+  {
+    "doctor_id": 2,
+    "doctor_name": "Dr. Patel",
+    "patient_name": "",
+    "date": "2025-07-21",
+    "time": "10:30"
+  },
+  {
+    "doctor_id": 2,
+    "doctor_name": "Dr. Patel",
+    "patient_name": "moulali",
+    "date": "2025-07-21",
+    "time": "11:00"
+  },
+  {
+    "doctor_id": 3,
+    "doctor_name": "Dr. Khan",
+    "patient_name": "Moulali",
+    "date": "2025-07-22",
+    "time": "10:00"
+  },
+  {
+    "user_name": "Imran",
+    "doctor_name": "Dr. Khan",
+    "date": "2022-04-09",
+    "time_slot": "10:00 AM"
+  },
+  {
+    "user_name": "Imran",
+    "doctor_name": "Dr. Khan",
+    "date": "2022-04-09",
+    "time_slot": "11:00 AM"
+  }
+]
