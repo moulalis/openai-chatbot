@@ -1,5 +1,5 @@
 
-# 🩺 Doctor Appointment Chatbot with OpenAI Function Calling
+# 🩺 Doctor's Appointment Chatbot with OpenAI Function Calling
 
 ## 📌 Features
 
